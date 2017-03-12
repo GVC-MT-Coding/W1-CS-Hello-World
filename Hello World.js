@@ -5,7 +5,7 @@ function setup() {
 function draw() {
   background(50);
   noStroke();
-  fill(255)
+  fill(255);
   text("Hello World!", 50, 200);
 }
 // Here is my comment to make a first edit to commit
